@@ -112,3 +112,6 @@ Then in the extension you will see the list of SSH target.
 ![ssh-config](./.github/images/ssh-targets-list.png)
 
 Then you can connect to the school server and edit file there from vscode.
+
+
+OHIO ID: gd221717
